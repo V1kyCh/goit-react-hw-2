@@ -1,0 +1,1 @@
+export const Greeting = ({name}) => <h1>Привіт, {name}</h1>
